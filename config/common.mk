@@ -104,8 +104,7 @@ PRODUCT_PACKAGES += \
     Development \
     Profiles \
     WeatherManagerService \
-    masquerade \
-    substratum
+    masquerade
 
 # Optional CM packages
 PRODUCT_PACKAGES += \
